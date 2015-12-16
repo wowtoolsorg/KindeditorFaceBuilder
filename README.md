@@ -1,0 +1,4 @@
+# KindeditorFaceBuilder
+简单的小工具，为所见即所得编辑器Kindeditor替换表情包。
+在文件目录sourceImgPath下放好想做表情的图片(jpg,png,gif)，调用builde方法将表情生成到tarPath文件目录中。
+把新表情覆盖掉kindeditor/plugins/emoticons/images下的图片即可
